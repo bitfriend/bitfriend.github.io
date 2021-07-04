@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/heswap-frontend/static/css/main.7e2fa9b7.chunk.css",
-    "main.js": "/heswap-frontend/static/js/main.1d18f450.chunk.js",
-    "main.js.map": "/heswap-frontend/static/js/main.1d18f450.chunk.js.map",
-    "runtime-main.js": "/heswap-frontend/static/js/runtime-main.f1cfa2cc.js",
-    "runtime-main.js.map": "/heswap-frontend/static/js/runtime-main.f1cfa2cc.js.map",
+    "main.js": "/heswap-frontend/static/js/main.ff12266d.chunk.js",
+    "main.js.map": "/heswap-frontend/static/js/main.ff12266d.chunk.js.map",
+    "runtime-main.js": "/heswap-frontend/static/js/runtime-main.7f7112f2.js",
+    "runtime-main.js.map": "/heswap-frontend/static/js/runtime-main.7f7112f2.js.map",
     "static/css/2.015d68e4.chunk.css": "/heswap-frontend/static/css/2.015d68e4.chunk.css",
     "static/js/2.ca1105c6.chunk.js": "/heswap-frontend/static/js/2.ca1105c6.chunk.js",
     "static/js/2.ca1105c6.chunk.js.map": "/heswap-frontend/static/js/2.ca1105c6.chunk.js.map",
@@ -12,14 +12,14 @@
     "static/js/3.2252c8fb.chunk.js.map": "/heswap-frontend/static/js/3.2252c8fb.chunk.js.map",
     "static/js/4.9a93b940.chunk.js": "/heswap-frontend/static/js/4.9a93b940.chunk.js",
     "static/js/4.9a93b940.chunk.js.map": "/heswap-frontend/static/js/4.9a93b940.chunk.js.map",
-    "static/js/5.4e3ace38.chunk.js": "/heswap-frontend/static/js/5.4e3ace38.chunk.js",
-    "static/js/5.4e3ace38.chunk.js.map": "/heswap-frontend/static/js/5.4e3ace38.chunk.js.map",
-    "static/js/6.e4c3b48a.chunk.js": "/heswap-frontend/static/js/6.e4c3b48a.chunk.js",
-    "static/js/6.e4c3b48a.chunk.js.map": "/heswap-frontend/static/js/6.e4c3b48a.chunk.js.map",
+    "static/js/5.2d843080.chunk.js": "/heswap-frontend/static/js/5.2d843080.chunk.js",
+    "static/js/5.2d843080.chunk.js.map": "/heswap-frontend/static/js/5.2d843080.chunk.js.map",
+    "static/js/6.406479e7.chunk.js": "/heswap-frontend/static/js/6.406479e7.chunk.js",
+    "static/js/6.406479e7.chunk.js.map": "/heswap-frontend/static/js/6.406479e7.chunk.js.map",
     "static/js/7.944aaa76.chunk.js": "/heswap-frontend/static/js/7.944aaa76.chunk.js",
     "static/js/7.944aaa76.chunk.js.map": "/heswap-frontend/static/js/7.944aaa76.chunk.js.map",
-    "static/js/8.29774244.chunk.js": "/heswap-frontend/static/js/8.29774244.chunk.js",
-    "static/js/8.29774244.chunk.js.map": "/heswap-frontend/static/js/8.29774244.chunk.js.map",
+    "static/js/8.43468bba.chunk.js": "/heswap-frontend/static/js/8.43468bba.chunk.js",
+    "static/js/8.43468bba.chunk.js.map": "/heswap-frontend/static/js/8.43468bba.chunk.js.map",
     "static/js/9.b990400f.chunk.js": "/heswap-frontend/static/js/9.b990400f.chunk.js",
     "static/js/9.b990400f.chunk.js.map": "/heswap-frontend/static/js/9.b990400f.chunk.js.map",
     "index.html": "/heswap-frontend/index.html",
@@ -32,10 +32,10 @@
     "static/media/slick-theme.css": "/heswap-frontend/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1cfa2cc.js",
+    "static/js/runtime-main.7f7112f2.js",
     "static/css/2.015d68e4.chunk.css",
     "static/js/2.ca1105c6.chunk.js",
     "static/css/main.7e2fa9b7.chunk.css",
-    "static/js/main.1d18f450.chunk.js"
+    "static/js/main.ff12266d.chunk.js"
   ]
 }
