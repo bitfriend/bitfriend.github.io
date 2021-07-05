@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/heswap-frontend/static/css/main.7e2fa9b7.chunk.css",
-    "main.js": "/heswap-frontend/static/js/main.1de65ec3.chunk.js",
-    "main.js.map": "/heswap-frontend/static/js/main.1de65ec3.chunk.js.map",
-    "runtime-main.js": "/heswap-frontend/static/js/runtime-main.6f9ed6c0.js",
-    "runtime-main.js.map": "/heswap-frontend/static/js/runtime-main.6f9ed6c0.js.map",
+    "main.js": "/heswap-frontend/static/js/main.ebf1ace5.chunk.js",
+    "main.js.map": "/heswap-frontend/static/js/main.ebf1ace5.chunk.js.map",
+    "runtime-main.js": "/heswap-frontend/static/js/runtime-main.0b3a55bf.js",
+    "runtime-main.js.map": "/heswap-frontend/static/js/runtime-main.0b3a55bf.js.map",
     "static/css/2.015d68e4.chunk.css": "/heswap-frontend/static/css/2.015d68e4.chunk.css",
-    "static/js/2.0e9e5149.chunk.js": "/heswap-frontend/static/js/2.0e9e5149.chunk.js",
-    "static/js/2.0e9e5149.chunk.js.map": "/heswap-frontend/static/js/2.0e9e5149.chunk.js.map",
+    "static/js/2.104090b4.chunk.js": "/heswap-frontend/static/js/2.104090b4.chunk.js",
+    "static/js/2.104090b4.chunk.js.map": "/heswap-frontend/static/js/2.104090b4.chunk.js.map",
     "static/js/3.2ca388ad.chunk.js": "/heswap-frontend/static/js/3.2ca388ad.chunk.js",
     "static/js/3.2ca388ad.chunk.js.map": "/heswap-frontend/static/js/3.2ca388ad.chunk.js.map",
     "static/js/4.9a93b940.chunk.js": "/heswap-frontend/static/js/4.9a93b940.chunk.js",
     "static/js/4.9a93b940.chunk.js.map": "/heswap-frontend/static/js/4.9a93b940.chunk.js.map",
-    "static/js/5.5c5e96b0.chunk.js": "/heswap-frontend/static/js/5.5c5e96b0.chunk.js",
-    "static/js/5.5c5e96b0.chunk.js.map": "/heswap-frontend/static/js/5.5c5e96b0.chunk.js.map",
+    "static/js/5.47335ab0.chunk.js": "/heswap-frontend/static/js/5.47335ab0.chunk.js",
+    "static/js/5.47335ab0.chunk.js.map": "/heswap-frontend/static/js/5.47335ab0.chunk.js.map",
     "static/js/6.6ace8709.chunk.js": "/heswap-frontend/static/js/6.6ace8709.chunk.js",
     "static/js/6.6ace8709.chunk.js.map": "/heswap-frontend/static/js/6.6ace8709.chunk.js.map",
     "static/js/7.944aaa76.chunk.js": "/heswap-frontend/static/js/7.944aaa76.chunk.js",
@@ -25,17 +25,17 @@
     "index.html": "/heswap-frontend/index.html",
     "static/css/2.015d68e4.chunk.css.map": "/heswap-frontend/static/css/2.015d68e4.chunk.css.map",
     "static/css/main.7e2fa9b7.chunk.css.map": "/heswap-frontend/static/css/main.7e2fa9b7.chunk.css.map",
-    "static/js/2.0e9e5149.chunk.js.LICENSE.txt": "/heswap-frontend/static/js/2.0e9e5149.chunk.js.LICENSE.txt",
+    "static/js/2.104090b4.chunk.js.LICENSE.txt": "/heswap-frontend/static/js/2.104090b4.chunk.js.LICENSE.txt",
     "static/js/3.2ca388ad.chunk.js.LICENSE.txt": "/heswap-frontend/static/js/3.2ca388ad.chunk.js.LICENSE.txt",
     "static/js/4.9a93b940.chunk.js.LICENSE.txt": "/heswap-frontend/static/js/4.9a93b940.chunk.js.LICENSE.txt",
     "static/media/index.css": "/heswap-frontend/static/media/CodecPro-UltraItalic.54c5889a.otf",
     "static/media/slick-theme.css": "/heswap-frontend/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f9ed6c0.js",
+    "static/js/runtime-main.0b3a55bf.js",
     "static/css/2.015d68e4.chunk.css",
-    "static/js/2.0e9e5149.chunk.js",
+    "static/js/2.104090b4.chunk.js",
     "static/css/main.7e2fa9b7.chunk.css",
-    "static/js/main.1de65ec3.chunk.js"
+    "static/js/main.ebf1ace5.chunk.js"
   ]
 }
